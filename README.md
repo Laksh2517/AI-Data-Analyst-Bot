@@ -33,8 +33,10 @@ AI-Data-Analyst-Bot/
 Lakshman Mishra  
 Python | SQL | AI | Automation
 
-##  Demo
+## 📷 Demo Screenshot
 
-![Demo](screenshots/bot.png)
+![AI Data Analyst Assistant](screenshots/demo.png)
+
+
 
 
