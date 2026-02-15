@@ -1,39 +1,40 @@
 # 🤖 AI Data Analyst Assistant
 
-## 📌 Overview
+##  Overview
 An AI-powered assistant that helps data analysts:
 - Generate optimized SQL queries
 - Explain SQL logic
 - Suggest business KPIs
 - Provide analytical insights
 
-## 🎯 Objective
+##  Objective
 To automate repetitive analytical tasks and assist analysts in faster decision-making using AI.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - OpenAI API
 - Pandas
 - Git & GitHub
 
-## 🚀 Features
+##  Features
 - Natural language to SQL
 - SQL explanation engine
 - Insight generation
 - Interactive chatbot UI
 
-## 📂 Project Structure
+##  Project Structure
 AI-Data-Analyst-Bot/
 ├── app.py
 ├── requirements.txt
 └── README.md
 
-## 👤 Author
+##  Author
 Lakshman Mishra  
 Python | SQL | AI | Automation
 
-## 📷 Demo
+##  Demo
 
 ![Demo](screenshots/bot.png)
+
 
