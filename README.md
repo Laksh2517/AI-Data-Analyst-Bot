@@ -32,3 +32,8 @@ AI-Data-Analyst-Bot/
 ## 👤 Author
 Lakshman Mishra  
 Python | SQL | AI | Automation
+
+## 📷 Demo
+
+![Demo](screenshots/bot.png)
+
